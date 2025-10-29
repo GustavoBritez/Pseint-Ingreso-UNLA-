@@ -1,4 +1,6 @@
 Algoritmo uno
+
+	/// Ingresar 24 numeros y obtener su promedio
 	Definir caja1, caja_promedio Como Entero
 	
 	// No nos olvidemos inicializar la variable, es una buena constumbre
@@ -15,3 +17,4 @@ Algoritmo uno
 	
 	
 FinAlgoritmo
+
