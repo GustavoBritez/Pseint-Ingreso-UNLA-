@@ -1,4 +1,5 @@
 Algoritmo Tres
+/// Ordenar tres numeros de menor a mayor
 	Definir n1,n2,n3,pibot Como Entero;
 	
 	Escribir " Ingrese 3 numeros "
@@ -16,7 +17,7 @@ Algoritmo Tres
 		
 		pibot <- n2
 		n2 <- n3
-		n3 <- píbot
+		n3 <- pÃ­bot
 		
 	FinSi
 	
@@ -31,3 +32,4 @@ Algoritmo Tres
 	Escribir " Los numeros ordenados son ", n1,n2,n3;
 	
 FinAlgoritmo
+
