@@ -17,11 +17,11 @@ Algoritmo Ocho
 	Leer N;
 	
 	Si N <= 0 Entonces
-		Escribir "La cantidad de valores debe ser un número positivo. Terminando el algoritmo."
+		Escribir "La cantidad de valores debe ser un nÃºmero positivo. Terminando el algoritmo."
 		
 	SiNo
 		Mientras contador <= N Hacer
-			Escribir "Ingrese el valor número ", contador, ":";
+			Escribir "Ingrese el valor nÃºmero ", contador, ":";
 			Leer numIngresado;
 			
 			Si numIngresado > 0 Entonces
